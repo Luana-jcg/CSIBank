@@ -1,5 +1,5 @@
 
-public class PessoaFisica extends Pessoa{
+public class PessoaFisica extends Pessoa {
 	private String cpf;
 
 	public String getCpf() {
@@ -10,5 +10,5 @@ public class PessoaFisica extends Pessoa{
 		this.cpf = cpf;
 	}
 	
+	
 }
-

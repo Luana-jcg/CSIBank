@@ -10,6 +10,5 @@ public class PessoaJuridica extends Pessoa{
 		this.cnpj = cnpj;
 	}
 	
+	
 }
-
-
